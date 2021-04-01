@@ -1,2 +1,2 @@
 # react-repo
-Testing react code
+Git Burger project
